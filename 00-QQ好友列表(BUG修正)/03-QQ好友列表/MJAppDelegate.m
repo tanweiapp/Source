@@ -9,6 +9,7 @@
 #import "MJAppDelegate.h"
 
 @implementation MJAppDelegate
+// 、、、、、、、、
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
